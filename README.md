@@ -1,7 +1,7 @@
 
-# covide-19-Java Swing + Cassandra
+# Covid-19-Java Swing + Cassandra
 
-Si nous utilisons sql, nous devons importer le fichier du base de données dans le serveur de wamp, pour éviter cela, nous pouvons utiliser cassandra donc pour exécuter ce projet.
+Si nous utilisons SQL, nous devons importer le fichier du base de données dans le serveur de wamp, pour éviter cela, nous pouvons utiliser cassandra donc pour exécuter ce projet.
  Ouvrir netbeans et importer le projet .
  Installer Cassandra.
 
